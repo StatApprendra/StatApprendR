@@ -1,0 +1,9 @@
+date_depart;date_arrivee;passagers;nb_passagers
+26/10/1985;26/10/1985;Einstein;1
+26/10/1985;05/11/1955;Marty;1
+1955;26/10/1985;Marty;1
+26/10/1985;21/10/2015;Doc, Marty, Jennifer;3
+21/10/2015;26/10/1985;Doc, Marty, Jennifer, Einstein;3
+27/10/1985;12/11/1955;Doc, Marty;2
+08/05/1905;02/09/1885;Marty;1
+07/09/1885;27/10/1985;Marty;1
