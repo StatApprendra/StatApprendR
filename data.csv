@@ -1,0 +1,25 @@
+;Nom;Allegence;Nb_chp_GoT_L1;Nb_chp_CoK_L2;Nb_chp_SoS_L3;Nb_chp_FfC_L4;Nb_chp_DwD_L5;nb_chp_narres;Book_Intro_Chapter;genre;Noblesse;GoT_L1;CoK_L2;SoS_L3;FfC_L4;DwD_L5;S_No;plod;Titre;male;Culture;Date_Naissance;book1;book2;book3;book4;book5;isAliveSpouse;marie;noble;age;nb_morts_ds_relations;boolDeadRelations;isPopular;popularite;isAlive
+218;Eddard Stark;Stark;15;0;0;0;0;15;1;1;1;1;0;0;0;0;1689;0,555;Winterfell;1;Northmen;263;1;1;1;1;1;1;1;1;36;6;1;1;1;0
+127;Catelyn Tully;Stark;11;7;7;0;0;25;2;0;1;1;1;1;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+744;Sansa Stark;Stark;6;8;7;3;0;24;7;0;1;1;1;1;1;0;1793;0,039;Princess;0;Northmen;286;1;1;1;1;1;1;1;1;19;10;1;1;1;1
+56;Arya Stark;Stark;5;10;13;3;2;33;2;0;1;1;1;1;1;1;1467;0,685;Princess;0;Northmen;289;1;1;1;1;1;NA;0;1;16;8;1;1;1;1
+107;Bran Stark;Stark;7;7;4;0;3;21;1;1;1;1;1;1;0;1;1475;0,711;Prince of Winterfell;1;Northmen;290;1;1;1;1;1;NA;0;1;15;7;1;1;1;1
+410;Jon Snow;Garde de la nuit;9;8;12;0;13;42;1;1;1;1;1;1;1;1;1750;0,116;Lord Commander of the Night's Watch;1;Northmen;283;1;1;1;1;1;NA;0;1;22;5;1;1;1;1
+163;Daenerys Targaryen;Targaryen;10;5;6;0;10;31;3;0;1;1;1;1;0;1;1678;0,953;Andals;0;Valyrian;284;1;1;1;1;1;0;1;1;21;15;1;1;1;1
+834;Tyrion Lannister;Lannister;9;15;11;0;12;47;4;1;1;1;1;1;0;1;1841;0,707;Hand of the King;1;NA;273;1;1;1;1;1;1;1;1;32;12;1;1;1;1
+801;Theon Greyjoy;Greyjoy;0;6;0;0;7;13;1;1;1;1;1;0;0;1;1786;0,741;green lands;1;Ironmen;278;1;1;1;1;1;NA;0;1;27;4;1;1;1;1
+177;Davos Seaworth;Baratheon;0;3;6;0;4;13;0;1;1;0;1;1;0;1;1684;0,918;Ser;1;Westeros;260;0;1;1;1;1;1;1;1;45;1;1;1;0,969899666;1
+741;Samwell Tarly;Garde de la nuit;0;0;5;5;0;10;70;1;1;1;1;1;1;1;274;0,687;NA;1;Westeros;283;1;1;1;1;1;NA;0;0;22;0;0;1;0,969899666;1
+383;Jaime Lannister;Lannister;0;0;9;7;1;17;5;1;1;1;1;1;1;1;1742;0,648;Ser;1;Westerlands;266;1;1;1;1;1;NA;0;1;39;7;1;1;1;1
+131;Cersei Lannister;Lannister;0;0;0;10;2;12;4;0;1;1;1;1;1;1;1482;0,166;Light of the West;0;Westerlands;266;1;1;1;1;1;1;1;1;39;9;1;1;1;1
+110;Brienne of Tarth;Stark;0;0;0;8;0;8;22;0;1;0;1;1;1;1;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+44;Areo Hotah;Martell;0;0;0;1;1;2;2;1;0;0;0;0;1;1;1637;0,362;Sunspear;1;Norvos;257;1;1;1;1;1;NA;0;1;48;0;0;0;0,257525084;1
+344;Harys Haigh;None;0;0;0;1;0;1;64;1;1;0;1;1;0;0;1091;0,276;Ser;1;NA;254;0;1;1;1;0;NA;0;1;51;0;0;0;0,090301003;1
+45;Arianne Martell;Martell;0;0;0;2;0;2;2;0;1;0;0;0;1;1;1899;0,537;Princess;0;Dornishmen;276;1;1;1;1;1;NA;0;1;29;0;0;1;0,571906355;1
+58;Asha Greyjoy;Greyjoy;0;0;0;1;3;4;11;0;1;0;1;0;1;1;1643;0,635;Black Wind;0;Ironborn;275;1;1;0;1;1;1;1;1;30;0;0;1;0,7090301;1
+9;Aeron Greyjoy;Greyjoy;0;0;0;2;0;2;11;1;1;0;1;0;1;0;1623;0,687;Golden Storm;1;Ironmen;269;1;1;1;1;1;NA;0;1;36;4;1;1;0,45819398;1
+857;Victarion Greyjoy;Greyjoy;0;0;0;2;2;4;24;1;1;0;1;0;1;1;1834;0,746;Lord Captain of the Iron Fleet;1;Ironborn;268;1;1;1;1;1;NA;0;1;37;4;1;1;0,705685619;1
+666;Quentyn Martell;Martell;0;0;0;0;4;4;6;1;1;0;0;0;0;1;1605;0,503;Ser;1;Dornishmen;281;1;1;1;1;1;NA;0;1;19;0;0;1;0,551839465;0
+408;Jon Connington;Targaryen;0;0;0;0;2;2;5;1;1;0;0;0;0;1;1825;0,122;Lord of Griffin's Roost;1;Stormlands;263;0;0;1;1;1;NA;0;1;42;0;0;1;0,719063545;1
+540;Melisandre;Baratheon;0;0;0;0;1;1;0;0;0;0;1;1;0;1;1559;0,116;NA;0;Asshai;NA;0;1;1;1;1;NA;0;0;NA;0;0;1;0,745819398;1
+67;Barristan Selmy;Targaryen;0;0;0;0;4;4;15;1;1;1;1;1;0;1;1652;0,414;Ser;1;Westeros;236;1;1;1;1;1;NA;0;1;69;0;0;1;1;1
